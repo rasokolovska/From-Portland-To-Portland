@@ -1,0 +1,15 @@
+.place__link{
+  color: #FFF;
+  font-size: 18px;
+  text-decoration-line: underline;
+  padding-top: 12px;
+}
+.place__link:hover{
+  opacity: 0.6;
+  transition: 0.4s;
+}
+@media (max-width: 320px) {
+  .place__link {
+    margin-top: 5px;
+  }
+}

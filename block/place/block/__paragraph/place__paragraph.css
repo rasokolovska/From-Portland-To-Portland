@@ -1,0 +1,12 @@
+.place__paragraph{
+  color: #FFF;
+  font-size: 18px;
+  line-height: 163%; /* 29.34px */
+  padding-top: 45px;
+  text-align: left;
+}
+@media (max-width: 320px) {
+  .place__paragraph{
+    width: 100%; /* Робить картинку розтягнутою на весь блок */
+  }
+}

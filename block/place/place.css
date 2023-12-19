@@ -1,0 +1,14 @@
+.place {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr;
+  padding: 0px 148px 92px 148px;
+}
+
+
+/* Додаткові стилі для адаптації */
+@media (max-width: 320px) {
+  .place {
+    padding: 0;
+}
+}

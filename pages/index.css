@@ -1,0 +1,57 @@
+
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
+
+/* Page */
+@import url(../block/page/page.css);
+
+/* Header */
+@import url(../block/header/header.css);
+@import url(../block/header/__link/_link-active/header__link-active.css);
+@import url(../block/header/__link/header__link.css);
+@import url(../block/header/__link/_link-no-active/header__link-no-active.css);
+
+/* Lead */
+@import url(../block/lead/__subtitle/lead__subtitle.css);
+@import url(../block/lead/__title/lead__title.css);
+@import url(../block/lead/lead.css);
+@import url(../block/lead/__figure/lead__figure.css);
+@import url(../block/lead/__figure/_caption/figure__caption.css);
+@import url(../block/lead/__figure/__image/lead__figure-image.css);
+
+/* Intro */
+@import url(../block/intro/__text/intro__text-one.css);
+@import url(../block/intro/__text/intro__text-two.css);
+@import url(../block/intro/__title/intro__title.css);
+@import url(../block/intro/intro.css);
+@import url(../block/intro/__list/intro__list.css);
+@import url(../block/intro/__list/_list-number/intro__list-number.css);
+@import url(../block/intro/__info/intro__info.css);
+
+/* Photo-grid */
+@import url(../block/photo-grid/__row/photo-grid__row.css);
+@import url(../block/photo-grid/photo-grid.css);
+@import url(../block/photo-grid/__image/photo-grid__image.css);
+
+/* place */
+@import url(../block/place/place.css);
+@import url(../block/place/block/__image/place__image.css);
+@import url(../block/place/block/__info/place__info.css);
+@import url(../block/place/block/__link/place__link.css);
+@import url(../block/place/block/__paragraph/place__paragraph.css);
+@import url(../block/place/block/__title/place__title.css);
+@import url(../block/place/block/__url-heading/place__url-heading.css);
+@import url(../block/place/block/__url-link/place__url-link.css);
+@import url(../block/place/block/block.css);
+
+/* Overlay */
+@import url(../block/overlay/overlay.css);
+@import url(../block/overlay/__subtitle/overlay__subtitle.css);
+@import url(../block/overlay/__title/overlay__title.css);
+@import url(../block/overlay/__image/overlay__image.css);
+
+/* Footer */
+@import url(../block/footer/__copyright/footer__copyright.css);
+@import url(../block/footer/__link/footer__link.css);
+@import url(../block/footer/footer.css);
+

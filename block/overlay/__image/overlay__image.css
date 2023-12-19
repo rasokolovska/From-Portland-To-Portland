@@ -1,0 +1,12 @@
+.overlay__image{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.overlay__image:hover {
+  opacity: 0.4;
+  transition: 0.4s;
+}
+.overlay__image::before {
+  transition: 0.4s;
+}

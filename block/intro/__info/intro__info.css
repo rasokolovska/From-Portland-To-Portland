@@ -1,0 +1,12 @@
+@media screen and (max-width: 768px){
+  .intro__info {
+    width: 100%;
+  }
+  
+  .intro__title,
+  .intro__text-one,
+  .intro__text-two {
+    width: 100%;
+  }
+  
+}

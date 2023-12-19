@@ -1,0 +1,6 @@
+.place__url-link{
+  display: flex;
+  align-items: start;
+  justify-content: flex-end;
+  flex-direction:column;
+}
