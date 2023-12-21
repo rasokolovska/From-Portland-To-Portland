@@ -4,3 +4,8 @@
   margin-top: 80px;
   max-width: 460px;
 }
+@media (max-width: 768px) {
+  .place__title {
+    font-size: 42px;
+}
+}

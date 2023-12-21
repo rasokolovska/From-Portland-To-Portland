@@ -5,4 +5,7 @@
   max-width: 320px;
   margin-top: 32px;
   z-index: 2;
+  /* position: absolute;
+  top: 0;
+  left: 0; */
 }

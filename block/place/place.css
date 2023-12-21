@@ -5,8 +5,17 @@
   padding: 0px 148px 92px 148px;
 }
 
-
+@media (max-width: 768px) {
+  .place {
+    padding: 0px 24px 50px 24px;
+}
+}
 /* Додаткові стилі для адаптації */
+@media (max-width: 512px) {
+  .place {
+    padding: 0;
+}
+}
 @media (max-width: 320px) {
   .place {
     padding: 0;

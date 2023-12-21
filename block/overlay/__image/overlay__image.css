@@ -2,6 +2,7 @@
   position: absolute;
   top: 0;
   left: 0;
+  width: 100%;
 }
 .overlay__image:hover {
   opacity: 0.4;

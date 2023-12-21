@@ -9,3 +9,9 @@
     gap: 20px;
   }
 }
+@media (max-width: 512px) {
+  .block {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}

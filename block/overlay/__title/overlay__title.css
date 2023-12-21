@@ -5,4 +5,16 @@
   max-width: 656px;
   font-weight: 900;
   z-index: 2;
+  
 }
+/* @media screen and (min-width:768px) {
+  .overlay__title{
+    position: absolute;
+    left: 20%;
+    bottom: 60%;
+  }
+}
+@media screen and (max-width:320px) {
+  .overlay__title{
+  }
+} */

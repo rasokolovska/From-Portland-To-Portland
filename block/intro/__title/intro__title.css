@@ -9,6 +9,12 @@
   .intro__title {
     padding: 0px 24px;
     width: 100%;
-    letter-spacing: 4px; 
+  }
+}
+@media screen and (max-width: 512px){
+  .intro__title {
+    padding: 0px 24px;
+    width: 100%;
+    font-size: 32px;
   }
 }

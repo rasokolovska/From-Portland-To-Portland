@@ -3,9 +3,13 @@
   justify-content: space-between;
   margin: 92px 48px 24px 48px;
 }
+@media screen and (max-width: 512px){
+  .footer{
+    flex-direction: column;
+  }
+}
 @media screen and (max-width: 320px){
   .footer{
     flex-direction: column;
   }
 }
-  
