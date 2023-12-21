@@ -50,6 +50,7 @@
 @import url(../block/overlay/__subtitle/overlay__subtitle.css);
 @import url(../block/overlay/__title/overlay__title.css);
 @import url(../block/overlay/__image/overlay__image.css);
+@import url(../block/overlay/__info/overlay__info.css);
 
 /* Footer */
 @import url(../block/footer/__copyright/footer__copyright.css);

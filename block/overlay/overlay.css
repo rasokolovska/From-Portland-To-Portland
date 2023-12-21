@@ -9,3 +9,8 @@
   position: relative;
   margin-top: 92px;
 }
+@media screen and (max-width:320px) {
+  .overlay{
+    margin:64px 0px 64px 0px;
+  }
+}
