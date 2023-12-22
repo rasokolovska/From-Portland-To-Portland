@@ -47,9 +47,9 @@ Copyright
 The objective of "From Portland to Portland" is to document an epic bicycle journey across the United States, specifically from Portland, ME, to Portland, OR. The website aims to provide users with engaging content about the journey, including information about different states, notable places, and interesting facts. The use of the website is to inspire adventure, showcase the diverse landscapes of the U.S., and share valuable insights for fellow travelers.
 
 ## Prototype Link
-[Not available.](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?type=design&node-id=0-1&mode=design&t=o2jEKq5397zFBd1x-0)
+[figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?type=design&node-id=0-1&mode=design&t=o2jEKq5397zFBd1x-0)
 
-6. Source Links
+## Source Links
 1.[L.L.Bean Continental Rucksack
 Timberland](https://global.llbean.com/shop/L.L.Bean-Continental-Rucksack/122952.html?bc=50-816&csp=f&feat=816-GN1)
 2. New Hampshire: https://www.timberland.com/timberland
