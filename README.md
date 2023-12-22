@@ -67,5 +67,6 @@ https://maps.google.com/
 https://weather.com/
 9. Calendar:
 https://calendar.google.com
+
 ## Contacts
-For inquiries or more information, please contact us at contact@fromportlandtoportland.com.
+For any inquiries or further information, feel free to reach out: Author: Sokolovska Ruslana Email:sokolovskayar22@icloud.com GitHub: github.com/rasokolovska
