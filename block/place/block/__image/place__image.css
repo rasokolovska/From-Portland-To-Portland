@@ -1,13 +1,5 @@
-@media (max-width: 320px) {
-  .place__image {
-    width: 100%; /* Робить картинку розтягнутою на весь блок */
-  }
-}
 .place__image{
-  width: 340px;
+  width: 100%;
 }
-@media (max-width: 512px) {
-  .place__image {
-    width: 100%; /* Робить картинку розтягнутою на весь блок */
-  }
-}
+
+

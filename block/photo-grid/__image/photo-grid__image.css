@@ -3,9 +3,9 @@
   height: 100%;
   object-fit: cover;
 }
-@media screen and (max-width:1024px) {
+
+@media screen and (max-width:320px) {
   .photo-grid__image{
-    justify-items: center; /* Вирівнює по горизонталі */
-    align-items: center;
-  }
+    padding: 0px 16px;
+    }
 }

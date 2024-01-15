@@ -6,17 +6,12 @@
 }
 @media screen and (max-width: 768px){
   .intro__text-two {
-    padding: 0px 24px;
+    padding: 32px 24px 0px 24px;
     max-width: 100%;
-    width: 920px;
-    margin-top: 40px;
   }
 }
 @media screen and (max-width: 320px){
   .intro__text-two {
-    padding: 0px 24px;
-    max-width: 100%;
-    width: 288px;
-    margin-top: 40px;
+    padding: 32px 16px 0px 16px;
   }
 }

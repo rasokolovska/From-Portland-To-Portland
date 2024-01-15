@@ -4,14 +4,15 @@
   line-height: 163%;
   text-align: left;
 }
-@media (max-width: 320px) {
+@media (max-width: 768px) {
   .place__paragraph{
-    width: 100%; /* Робить картинку розтягнутою на весь блок */
+    font-size: 16px;
   }
 }
-
 @media (max-width: 320px) {
   .place__paragraph{
     font-size: 16px;
+    padding: 0px 16px;
+    width: 100%;
   }
 }

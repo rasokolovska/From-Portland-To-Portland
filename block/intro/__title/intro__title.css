@@ -9,12 +9,12 @@
   .intro__title {
     padding: 0px 24px;
     width: 100%;
+    margin-top: 88px;
   }
 }
-@media screen and (max-width: 512px){
+@media screen and (max-width: 320px){
   .intro__title {
-    padding: 0px 24px;
-    width: 100%;
-    font-size: 32px;
+    margin-top: 64px;
+    padding:0px 16px;
   }
 }

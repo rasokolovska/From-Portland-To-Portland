@@ -1,7 +1,9 @@
 .block {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 20px;
+  grid-column-gap: 40px;
+  grid-row-gap: 48px;
+
 }
 @media (max-width: 320px) {
   .block {

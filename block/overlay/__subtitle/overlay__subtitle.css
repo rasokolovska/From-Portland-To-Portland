@@ -16,5 +16,6 @@
   .overlay__subtitle{
     font-size: 14px;
     line-height: 16px;
+    padding: 0px 16px 50px 16px;
   }
 }

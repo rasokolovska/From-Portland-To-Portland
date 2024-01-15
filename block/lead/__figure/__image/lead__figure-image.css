@@ -1,3 +1,6 @@
+.lead__figure-image{
+  width: 100%;
+}
 @media screen and (max-width:1024px){
   .lead__figure-image{
     width: 100%;
