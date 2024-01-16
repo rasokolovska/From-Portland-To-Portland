@@ -1,9 +1,8 @@
-.lead__figure{
+.intro__figure{
   margin: 0 auto;
 }
 @media screen and (max-width:1024px){
-  .lead__figure{
+  .intro__figure{
     object-fit: cover;
-
   }
 }

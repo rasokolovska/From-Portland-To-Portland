@@ -1,11 +1,8 @@
 .overlay__image{
   width: 100%;
-  
 }
 .overlay__image:hover {
   opacity: 0.4;
   transition: 0.4s;
 }
-.overlay__image::before {
-  transition: 0.4s;
-}
+
