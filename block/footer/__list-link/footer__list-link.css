@@ -1,0 +1,10 @@
+.footer__list-link:hover{
+  opacity: 0.8;
+}
+.footer__list-link{
+  color: #FFF;
+  font-size: 16px;
+  line-height: 18px; /* 112.5% */
+  text-decoration: none;
+  list-style-type: none;
+}
